@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1705609449 source:c:\users\federico\desktop\code\c++\tris\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<windows.h>
+
